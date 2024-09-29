@@ -109,8 +109,6 @@ By following these instructions, you can quickly deploy the Smart Attendance Tra
 ## Contributors
 
 - 21Z201 - Aadil Arsh S R
-- 21Z202 - Aaditya Rengarajan
-- 21Z217 - Gaurav Vishnu N
 - 21Z218 - Hareesh S
 - 21Z247 - S Karun Vikhash
 - 21Z248 - Sanjay Kumaar Eswaran
