@@ -1,7 +1,7 @@
 # Smart-Attendance-Tracking
 Welcome to Smart Attendance Tracking for Educational Institutions. This project is designed to address two key objectives: automating class attendance and mitigating proxy attendance. Paper published at https://ieeexplore.ieee.org/document/10401065
 
-**View Video Demo at <https://tiny.cc/smart-attendance> [https://drive.google.com/file/d/12n9oVFhOiYOGq-eI95tQk5Ei4-c0HHvx/view?usp=sharing]**
+**View Video Demo at https://drive.google.com/file/d/12n9oVFhOiYOGq-eI95tQk5Ei4-c0HHvx/view?usp=sharing**
 
 **Final Report and Plagiarism Report can be found in the `documentation` folder**
 
